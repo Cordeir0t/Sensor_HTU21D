@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Embeddo/Servidor"
+		},
+		{
+			"name": "esp32",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
