@@ -1,4 +1,3 @@
-﻿# Sensor_HTU21D
 
 # Sensor_HTU21D
 
@@ -195,3 +194,4 @@ Pull requests são bem-vindos.
 Para mudanças maiores, abra uma issue para discussão prévia.
 
 ---
+
